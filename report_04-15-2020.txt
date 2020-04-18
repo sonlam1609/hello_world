@@ -1,0 +1,19 @@
+■ Today plan:
+Hoàn thành kiến thức về Git và bài bài kiểm tra về Git
+Chuyển sang học Sql
+
+■ Actual:
+-Tìm hiểu về những khái niệm cơ bản của Remote Repository, gồm có:
+1. Git Clone:
+2. Git Pull: 
+3. Git Fetch:
+4. Git Push: 
+
+■ Reason cannot complete work:
+1. Kiến thức về Git còn yếu do mới tiếp cận
+2. Đọc tài liệu còn chậm vì còn phải dịch khá nhiều
+■ Tomorrow Plan:
+1. TÌm hiểu kỹ hơn về Git
+2. Hoàn thành bài test
+3. Tìm hiểu thêm về Local Repository như là HEAD, Stage, khác biệt giữa Stage và HEAD.
+■ Free comment:
