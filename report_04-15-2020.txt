@@ -17,3 +17,4 @@ Chuyển sang học Sql
 2. Hoàn thành bài test
 3. Tìm hiểu thêm về Local Repository như là HEAD, Stage, khác biệt giữa Stage và HEAD.
 ■ Free comment:
+Chỉnh sửa ở đây này, hello
